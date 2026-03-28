@@ -67,7 +67,10 @@ plt.show()
 
 ## Output:
 
-<Figure size 800x400 with 1 Axes><img width="695" height="391" alt="image" src="https://github.com/user-attachments/assets/1519db0b-d697-4cf1-a458-f8f940272b95" />
+![simple linear regression model for predicting the marks scored](sam.png)
+<img width="837" height="673" alt="444882302-487ac3e5-6423-4745-8506-4bff49e94ff0" src="https://github.com/user-attachments/assets/cecf0375-23ef-495c-8ec0-68ad925462ec" />
+<img width="1008" height="609" alt="444882323-90d0f6b6-97f3-41cc-a439-ef3a9cfcebd2" src="https://github.com/user-attachments/assets/146a0a35-3681-4bec-ac03-a1b77645466e" />
+
 
 
 ## Result:
